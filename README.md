@@ -37,95 +37,6 @@ Welcome to ** Candle Study   Focus Timer Ambient Workspace** - a cutting-edge pr
 - 📖 **Documentation** - Clear guides and references
 - 🔧 **Easy Setup** - Streamlined installation process
 
-## 🚀 Quick Start
-
-### Prerequisites
-
-Make sure you have the following installed:
-
-- **Git** - [Download here](https://git-scm.com/downloads)
-
-### Installation Steps
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/aditikumari27/-Candle-Study---Focus-Timer-Ambient-Workspace.git
-   cd -Candle-Study---Focus-Timer-Ambient-Workspace
-   ```
-
-2. **Install dependencies**
-   ```bash
-   # Follow project-specific installation instructions
-   ```
-
-3. **Run the application**
-   ```bash
-   # Follow project-specific run instructions
-   ```
-
-That's it! You're ready to go! 🎉
-
-## 🎯 Usage
-
-### Basic Setup
-
-1. **Start the development server**
-   ```bash
-   npm run dev
-   ```
-
-2. **Open your browser**
-   Navigate to `http://localhost:3000`
-
-3. **Start building!**
-   Edit files in the `src/` directory
-
-### 🌟 Key Features
-
-- 📱 **Responsive Design** - Works on all devices
-- ⚡ **Fast Loading** - Optimized performance
-- 🎨 **Modern UI** - Beautiful and intuitive interface
-
-## 🤝 Contributing
-
-We love contributions! Here's how you can help make ** Candle Study   Focus Timer Ambient Workspace** even better:
-
-### 🌟 Ways to Contribute
-
-- 🐛 **Report Bugs** - Found a bug? [Open an issue](https://github.com/aditikumari27/-Candle-Study---Focus-Timer-Ambient-Workspace/issues)
-- 💡 **Suggest Features** - Have ideas? We'd love to hear them!
-- 📝 **Improve Documentation** - Help others understand the project better
-- 🔧 **Submit Code** - Fix bugs or add new features
-
-### 🚀 Getting Started
-
-1. **Fork the repository**
-2. **Create a feature branch**
-   ```bash
-   git checkout -b feature/amazing-feature
-   ```
-3. **Make your changes**
-4. **Commit your changes**
-   ```bash
-   git commit -m "Add: amazing new feature"
-   ```
-5. **Push to the branch**
-   ```bash
-   git push origin feature/amazing-feature
-   ```
-6. **Open a Pull Request**
-
----
-
-<div align="center">
-
-## 📊 Project Stats
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aditikumari27&repo=-Candle-Study---Focus-Timer-Ambient-Workspace&theme=tokyonight&hide_border=true" alt="Repository Stats"/>
-
-## 🌟 Show Your Support
-
-If this project helped you, please give it a ⭐!
 
 ## 📞 Connect With Me
 
@@ -141,11 +52,6 @@ If this project helped you, please give it a ⭐!
   </a>
 </p>
 
-## 📝 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" alt="Made with love"/>
