@@ -12,12 +12,8 @@
   <img src="https://img.shields.io/github/issues/aditikumari27/-Candle-Study---Focus-Timer-Ambient-Workspace?style=for-the-badge&logo=github&color=red" alt="Issues"/>
   <img src="https://img.shields.io/github/license/aditikumari27/-Candle-Study---Focus-Timer-Ambient-Workspace?style=for-the-badge&color=green" alt="License"/>
 </p>
-
-<p align="center">![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</p>
-
 </div>
 
----
 
 ## 🌟 Overview
 
